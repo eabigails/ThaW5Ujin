@@ -1,0 +1,11 @@
+C:\Users\surab\source\repos\aaa\aaa\obj\Debug\aaa.csproj.AssemblyReference.cache
+C:\Users\surab\source\repos\aaa\aaa\obj\Debug\aaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\surab\source\repos\aaa\aaa\obj\Debug\aaa.Properties.Resources.resources
+C:\Users\surab\source\repos\aaa\aaa\obj\Debug\aaa.csproj.GenerateResource.cache
+C:\Users\surab\source\repos\aaa\aaa\obj\Debug\aaa.csproj.CoreCompileInputs.cache
+C:\Users\surab\source\repos\aaa\aaa\bin\Debug\aaa.exe.config
+C:\Users\surab\source\repos\aaa\aaa\bin\Debug\aaa.exe
+C:\Users\surab\source\repos\aaa\aaa\bin\Debug\aaa.pdb
+C:\Users\surab\source\repos\aaa\aaa\obj\Debug\aaa.exe
+C:\Users\surab\source\repos\aaa\aaa\obj\Debug\aaa.pdb
+C:\Users\surab\source\repos\aaa\aaa\obj\Debug\thaujinshinchan.Form1.resources
